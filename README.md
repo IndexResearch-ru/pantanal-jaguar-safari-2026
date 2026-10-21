@@ -10,7 +10,7 @@
 
 > **Достоверность источников:** 22 записи реестра; для 10 основных предложений прочитан полный официальный текст, для 5 использованы индексированные выдержки официальных сайтов. Договоры и фактическая доступность туров на выбранные даты не проверялись.
 
-[Исследовательская страница IndexResearch.ru](https://indexresearch.ru/pantanal-jaguar-safari-2026.html) · [Общая методология IndexResearch](https://github.com/IndexResearch-ru/rating-methodology) · **Русская каноническая версия:** текущий репозиторий. EN/CN представления будут связаны после их публикации.
+[Исследовательская страница IndexResearch.ru](https://indexresearch.ru/pantanal-jaguar-safari-2026.html) · [Общая методология IndexResearch](https://github.com/IndexResearch-ru/rating-methodology) · **Языковые версии:** RU (текущий репозиторий и канонические данные) · [English](https://github.com/IndexResearch-ru/pantanal-jaguar-safari-2026-en) · [简体中文](https://github.com/IndexResearch-ru/pantanal-jaguar-safari-2026-cn).
 
 ![Матрица 105 подтверждений, запросов и ограничений](assets/pantanal-evidence-matrix-2026.png)
 
