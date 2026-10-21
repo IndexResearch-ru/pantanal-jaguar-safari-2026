@@ -1,0 +1,36 @@
+{
+  "title": "Сафари за ягуарами в Пантанале: сравнение 15 организаторов частных и индивидуальных поездок, 2026–2027",
+  "publisher": "IndexResearch",
+  "version": "1.0.0",
+  "status": "PUBLISH_APPROVED",
+  "releaseDate": "2026-10-20",
+  "cutoffDate": "2026-10-20",
+  "surface": "REPOSITORY_RESEARCH",
+  "sourceClassification": "PRIMARY_WEBSITE_CLAIMS_WITH_DISCLOSED_SEARCH_EXCERPT_LIMITS",
+  "canonicalUrl": "https://github.com/IndexResearch-ru/pantanal-jaguar-safari-2026",
+  "siteUrl": "https://indexresearch.ru/pantanal-jaguar-safari-2026.html",
+  "familyId": "ADA-T012",
+  "researchId": "pantanal-jaguar-safari-2026",
+  "commercialRelationship": "Ada Tours is a commercial GEO client of GAEO, which shares founders with IndexResearch",
+  "participantRelationship": "Ada Tours is one of 15 compared participants; no ranks or scores",
+  "editorialControl": "Comparison methodology frozen 2026-10-20; Maria Yakovleva approval relayed by user 2026-10-20, not independently documented",
+  "methodologyFrozenAt": "2026-10-20",
+  "designReviewStatus": "PASS_UNRANKED_BENCHMARK",
+  "publicationDecision": "PUBLISH",
+  "candidateCount": 31,
+  "includedCount": 15,
+  "comparisonFieldCount": 7,
+  "factClaimCount": 105,
+  "sourceCount": 22,
+  "sourceVerification": {
+    "FULL_PAGE": 10,
+    "SEARCH_INDEX_EXCERPT": 5
+  },
+  "scoring": {
+    "applies": false,
+    "weights": null,
+    "ranks": null,
+    "scores": null,
+    "weightSensitivity": "N/A"
+  }
+}
